@@ -107,7 +107,7 @@ afin de permettre une optique de recherche guidée par la donnée.
  - Pour les détecter au plus tôt, de très nombreux tests sont effectués.
  
  - Que ce soit pour prédire les défaillances ou en analyser les origines, des algorithmes de recherche multidimensionnel d'outliers (valeurs atypiques, données erronées ,signaux faibles) ont facilité ce travail.
-.center[![Wafer](Wafer.jpg)]  
+.center[![Wafer](wafer.jpg)]  
 ---
 
 ## Détection des renversements de tendances pour la pharmacovigilance
@@ -131,7 +131,23 @@ afin de permettre une optique de recherche guidée par la donnée.
 
 - Avec des méthodes d'apprentissage et des algorithmes d'extraction des renversement de tendances, on essaye d'isoler les phénomènes au plus tôt. 
 
-- Une fois les phénomènes isolés, l'outil permet au spécialiste de comprendre le plus petit ensemble de facteurs significatifs.   
+- Une fois les phénomènes isolés, l'outil permet aux spécialistes de comprendre le plus petit ensemble de facteurs significatifs.   
+---
+
+## Big Data et Drones
+.center[![Application](drone.png)]
+---
+
+## Big Data et Drones
+- Les drones sont des unités mobiles de la chaine de valeur de la captation de donnée.
+
+- Une fois captées, ces données doivent servir à créer de l'information.
+
+- Une fois croisée avec les autres sources déjà existantes, ces informations peuvent servir d'entrée aux systèmes "Big Data".
+
+- Ces systèmes sont utiles autant à la prédiction qu'à la compréhension des phénomènes.
+
+- La mobilité du capteur et autonomie de trajectoire complexifie la problématique Big data et offre de nombreux enjeux. 
 ---
 
 ## Conclusion
@@ -139,6 +155,6 @@ afin de permettre une optique de recherche guidée par la donnée.
 
 - La profusion de données non encore exploitable est une mine d'or pour le chercheur en data mining.
 
-- Il y a encore de nombreuses questions d'éthiques, législatives ou d'usage.
+- Il y a encore de nombreuses questions de fiabilité, d'éthiques ou d'usage.
 
 .center[![Question](question.jpg)]
